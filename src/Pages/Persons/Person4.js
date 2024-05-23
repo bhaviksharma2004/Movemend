@@ -2,7 +2,6 @@ import Navbar from "../../Components/Navbar";
 import Footer from '../../Components/Footer';
 import './Persons.css';
 import Bookappoint from "../../Components/Bookappoint";
-import { Link } from "react-router-dom";
 function Person4(){
     function hideshow(num) {
         for (let i = 1; i <= 3; i++) {

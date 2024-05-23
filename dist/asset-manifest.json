@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29d11b3c.css",
-    "main.js": "/static/js/main.a37ec784.js",
+    "main.css": "/static/css/main.32a6e60a.css",
+    "main.js": "/static/js/main.536f4020.js",
     "static/media/blog-5.png": "/static/media/blog-5.1fd1d87b2fe8ebb34b19.png",
     "static/media/Exercise-Physiology.jpg": "/static/media/Exercise-Physiology.7ebde2a8fede76fe8ba0.jpg",
     "static/media/Clinical-Pilates.jpg": "/static/media/Clinical-Pilates.62873df935e0f4e888f4.jpg",
@@ -17,11 +17,11 @@
     "static/media/blog-4.jpg": "/static/media/blog-4.be57d2947c4b7539819f.jpg",
     "static/media/blog-1.jpg": "/static/media/blog-1.6e656c4154cebe767f38.jpg",
     "index.html": "/index.html",
-    "main.29d11b3c.css.map": "/static/css/main.29d11b3c.css.map",
-    "main.a37ec784.js.map": "/static/js/main.a37ec784.js.map"
+    "main.32a6e60a.css.map": "/static/css/main.32a6e60a.css.map",
+    "main.536f4020.js.map": "/static/js/main.536f4020.js.map"
   },
   "entrypoints": [
-    "static/css/main.29d11b3c.css",
-    "static/js/main.a37ec784.js"
+    "static/css/main.32a6e60a.css",
+    "static/js/main.536f4020.js"
   ]
 }

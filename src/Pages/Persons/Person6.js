@@ -2,7 +2,6 @@ import Navbar from "../../Components/Navbar";
 import Footer from '../../Components/Footer';
 import './Persons.css';
 import Bookappoint from "../../Components/Bookappoint";
-import { Link } from "react-router-dom";
 
 function Person6(){
   function hideshow(num) {

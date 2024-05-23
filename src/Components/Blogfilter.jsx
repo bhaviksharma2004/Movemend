@@ -12,19 +12,19 @@ const Blogfilter = ({ setfilter }) => {
 
           <div class="col-4">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown+" role="button" href="#" data-bs-toggle="dropdown"><span class="full-text">
+              <a class="nav-link dropdown+" role="button" href="/" data-bs-toggle="dropdown"><span class="full-text">
                 <h5>Filter By Category <i class="fa-solid fa-chevron-down"></i></h5>
               </span>
                 <span class="short-text">
                   <h5>Filter &nbsp<i class="fa-solid fa-chevron-down"></i></h5>
                 </span></a>
               <ul class="dropdown-menu">
-                <li onClick={() => fil("Show All")}><a class="dropdown-item" href="#">Show All</a></li>
-                <li onClick={() => fil("Physiology")}><a class="dropdown-item" href="#">Physiology</a></li>
-                <li onClick={() => fil("Pregnancy")}><a class="dropdown-item" href="#">Pregnancy</a></li>
-                <li onClick={() => fil("Basic Health")}><a class="dropdown-item" href="#">Basic Health</a></li>
-                <li onClick={() => fil("Exercise")}><a class="dropdown-item" href="#">Exercise</a></li>
-                <li onClick={() => fil("Posture")}><a class="dropdown-item" href="#">Posture</a></li>
+                <li onClick={() => fil("Show All")}><a class="dropdown-item" href="/">Show All</a></li>
+                <li onClick={() => fil("Physiology")}><a class="dropdown-item" href="/">Physiology</a></li>
+                <li onClick={() => fil("Pregnancy")}><a class="dropdown-item" href="/">Pregnancy</a></li>
+                <li onClick={() => fil("Basic Health")}><a class="dropdown-item" href="/">Basic Health</a></li>
+                <li onClick={() => fil("Exercise")}><a class="dropdown-item" href="/">Exercise</a></li>
+                <li onClick={() => fil("Posture")}><a class="dropdown-item" href="/">Posture</a></li>
               </ul>
             </li>
           </div>
